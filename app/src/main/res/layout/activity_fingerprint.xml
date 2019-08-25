@@ -4,8 +4,8 @@
     android:id="@+id/activity_fingerprint"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPro"
-    tools:context="ertzil.com.huella.FingerprintActivity">
+    android:background="@color/colorPrimary"
+    tools:context=".seguridad">
 
 
     <LinearLayout
